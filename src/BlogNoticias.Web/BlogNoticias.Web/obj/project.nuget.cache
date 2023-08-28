@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "++OhGvIpvRwIMRnnUmCp6LgX2HB6aRi2aF1BsJO50fgCOJoOexJu4qaJNBqmbMINyGw+bw79AeXEJwRI40CsAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leila\\source\\repos\\Pos Tech\\Fase 2\\TechChallenger2_Gp23\\src\\BlogNoticias.Web\\BlogNoticias.Web\\BlogNoticias.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\Leila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
